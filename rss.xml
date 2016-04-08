@@ -2,15 +2,22 @@
     <channel>
         <title><![CDATA[360Integrity]]></title>
         <description><![CDATA[360Integrity]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/360integrity/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 21:08:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Apr 2016 21:10:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/360integrity/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0362be20-a3fb-42de-b004-6d2a934b3a65.jpg">]]></description>
+            <link>https://thegrid.ai/360integrity/71dbd4de-35b5-45f0-9622-f308903f277a/index.html</link>
+            <guid isPermaLink="false">71dbd4de-35b5-45f0-9622-f308903f277a</guid>
+            <pubDate>Fri, 08 Apr 2016 21:10:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Integrity through Reverence
 holds the opportunity for living ‘the Unsought Life’</p>]]></description>
-            <link>undefined49941dfe-34b4-4d8e-9cab-f23a07a063a9/index.html</link>
+            <link>https://thegrid.ai/360integrity/49941dfe-34b4-4d8e-9cab-f23a07a063a9/index.html</link>
             <guid isPermaLink="false">49941dfe-34b4-4d8e-9cab-f23a07a063a9</guid>
             <pubDate>Fri, 08 Apr 2016 21:08:25 GMT</pubDate>
         </item>
