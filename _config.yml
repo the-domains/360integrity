@@ -1,7 +1,7 @@
 name: 360Integrity
 favicon: null
 layout_spectrum: 0.4432820954825729
-typography_spectrum: 0.19893932132981718
+typography_spectrum: 0.7572
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.8088171118870378
-  lightness: 0.8516640232410282
+    - '#308519'
+    - '#0c3a06'
+    - '#d4eae5'
+    - '#72ba61'
+    - '#b2c4b6'
+  brandStrength: 0.5
+  lightness: 0.5
   saturation: 0.5450883083976805
   rhythmicContrast: 0.9268687195144594
 purpose: []
