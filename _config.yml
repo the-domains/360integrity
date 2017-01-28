@@ -29,9 +29,6 @@ cta:
   version: null
   domain: null
 navigation:
-  - name: 10th Dot
-    url: 'http://www.10thdot.com/10thDot.com/Welcome.html'
-    type: external
   - name: 360° Integrity Video
     id: f1b92b4d-19e6-4697-b0c1-ce79d77ae62a
     type: content
