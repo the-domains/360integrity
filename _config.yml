@@ -1,4 +1,3 @@
-layout_spectrum: 0.7601374149215546
 typography_spectrum: 0.29801991585568327
 color:
   saturation: 0.44010468407838355
@@ -11,10 +10,12 @@ color:
     - '#E18262'
     - '#863F39'
   rhythmicContrast: 0.42593528512975953
+github: true
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.7601374149215546
 analytics:
   twitter: '@10thdot'
   google: UA-29546732-1
@@ -32,6 +33,9 @@ navigation:
   - name: 360° Integrity Video
     id: f1b92b4d-19e6-4697-b0c1-ce79d77ae62a
     type: content
+  - name: 10th Dot Move
+    url: 'http://10thdotmove.com/'
+    type: external
 favicon: null
 collections:
   - index:
@@ -126,4 +130,3 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: ''
 purpose: []
-github: true
