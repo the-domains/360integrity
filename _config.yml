@@ -33,7 +33,7 @@ navigation:
   - name: 360° Integrity Video
     id: f1b92b4d-19e6-4697-b0c1-ce79d77ae62a
     type: content
-  - name: 10th Dot Move
+  - name: 10th Dot
     url: 'http://10thdot.com/'
     type: external
 favicon: null
