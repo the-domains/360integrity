@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-01-31T07:53:51.277Z'
-datePublished: '2017-01-31T07:53:52.311Z'
-title: 'The tyranny of '
+dateModified: '2017-01-31T08:00:45.894Z'
+datePublished: '2017-01-31T08:00:46.828Z'
+title: The tyranny of
 author: []
 publisher: {}
 via: {}
@@ -14,15 +14,17 @@ datePublishedOriginal: '2017-01-24T01:05:51.706Z'
 _type: Blurb
 
 ---
-# **The tyranny of **
+# **The tyranny of**
 
-# **always needing to lead, **
+# **always needing to lead,**
 
-# **always following,**
+# **always following, or**
 
-# **or always insisting on equality erodes trust.**
+# **insisting on pervasive equality prevents trust.**
 
-# **See a Fourth View**
+# **Being skillful with all three**
+
+# **instills trust.**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/94ae55b1-99a6-4864-9733-b08b0aecfb70.jpg)
 
 ---
