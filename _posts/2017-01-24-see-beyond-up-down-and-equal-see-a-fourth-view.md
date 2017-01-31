@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-01-31T08:00:45.894Z'
-datePublished: '2017-01-31T08:00:46.828Z'
+dateModified: '2017-01-31T08:09:58.559Z'
+datePublished: '2017-01-31T08:10:00.901Z'
 title: The tyranny of
 author: []
 publisher: {}
@@ -20,7 +20,9 @@ _type: Blurb
 
 # **always following, or**
 
-# **insisting on pervasive equality prevents trust.**
+# **insisting on pervasive equality**
+
+# **prevents trust.**
 
 # **Being skillful with all three**
 
