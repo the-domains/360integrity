@@ -12,8 +12,8 @@ description: |-
   Being skillful with all three
 
   instills trust.
-dateModified: '2017-02-01T03:57:59.284Z'
-datePublished: '2017-02-01T03:57:59.923Z'
+dateModified: '2017-02-01T03:59:34.381Z'
+datePublished: '2017-02-01T03:59:35.569Z'
 title: The tyranny of...
 author: []
 publisher: {}
