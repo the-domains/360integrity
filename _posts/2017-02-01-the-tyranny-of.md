@@ -1,8 +1,21 @@
 ---
 inFeed: true
-description: The tyranny in...
-dateModified: '2017-02-08T22:11:22.374Z'
-datePublished: '2017-02-08T22:11:23.226Z'
+description: |-
+  The tyranny in...
+
+  always needing to lead,
+
+  always following, or
+
+  insisting on pervasive equality
+
+  prevents trust.
+
+  Being adept and fluid as a leader, a follower and a peer
+
+  instills trust.
+dateModified: '2017-02-08T22:26:20.136Z'
+datePublished: '2017-02-08T22:26:20.817Z'
 title: ''
 author: []
 publisher: {}
@@ -13,18 +26,16 @@ datePublishedOriginal: '2017-02-01T03:57:25.122Z'
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/708b971b-a695-4cd7-9a6a-76223c3f288c.jpg)
+![The tyranny in...
 
-**The tyranny in...**
+always needing to lead,
 
-**always needing to lead,**
+always following, or
 
-**always following, or**
+insisting on pervasive equality
 
-**insisting on pervasive equality**
+prevents trust.
 
-**prevents trust.**
+Being adept and fluid as a leader, a follower and a peer
 
-**Being adept and fluid as a leader, a follower and a peer**
-
-**instills trust.**
+instills trust.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/708b971b-a695-4cd7-9a6a-76223c3f288c.jpg)
