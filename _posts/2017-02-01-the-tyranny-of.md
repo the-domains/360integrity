@@ -1,6 +1,9 @@
 ---
 inFeed: true
-description: |-
+description: ''
+dateModified: '2017-02-08T23:25:32.269Z'
+datePublished: '2017-02-08T23:25:32.999Z'
+title: |-
   The tyranny in...
 
   always needing to lead,
@@ -14,9 +17,6 @@ description: |-
   Being adept and fluid as a leader, a follower and a peer
 
   instills trust.
-dateModified: '2017-02-08T22:26:20.136Z'
-datePublished: '2017-02-08T22:26:20.817Z'
-title: ''
 author: []
 publisher: {}
 via: {}
@@ -26,16 +26,4 @@ datePublishedOriginal: '2017-02-01T03:57:25.122Z'
 _type: Blurb
 
 ---
-![The tyranny in...
-
-always needing to lead,
-
-always following, or
-
-insisting on pervasive equality
-
-prevents trust.
-
-Being adept and fluid as a leader, a follower and a peer
-
-instills trust.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/708b971b-a695-4cd7-9a6a-76223c3f288c.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/708b971b-a695-4cd7-9a6a-76223c3f288c.jpg)
