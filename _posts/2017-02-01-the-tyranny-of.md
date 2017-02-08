@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: The tyranny in...
-dateModified: '2017-02-01T07:03:05.971Z'
-datePublished: '2017-02-01T07:03:07.066Z'
+dateModified: '2017-02-08T22:11:22.374Z'
+datePublished: '2017-02-08T22:11:23.226Z'
 title: ''
 author: []
 publisher: {}
@@ -13,6 +13,8 @@ datePublishedOriginal: '2017-02-01T03:57:25.122Z'
 _type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/708b971b-a695-4cd7-9a6a-76223c3f288c.jpg)
+
 **The tyranny in...**
 
 **always needing to lead,**
