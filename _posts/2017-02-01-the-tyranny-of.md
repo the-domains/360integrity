@@ -1,22 +1,9 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-02-08T23:25:32.269Z'
-datePublished: '2017-02-08T23:25:32.999Z'
-title: |-
-  The tyranny in...
-
-  always needing to lead,
-
-  always following, or
-
-  insisting on pervasive equality
-
-  prevents trust.
-
-  Being adept and fluid as a leader, a follower and a peer
-
-  instills trust.
+dateModified: '2017-02-08T23:53:17.941Z'
+datePublished: '2017-02-08T23:53:18.494Z'
+title: ''
 author: []
 publisher: {}
 via: {}
