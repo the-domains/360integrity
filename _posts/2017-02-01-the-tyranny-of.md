@@ -1,21 +1,8 @@
 ---
 inFeed: true
-description: |-
-  The tyranny in...
-
-  always needing to lead,
-
-  always following, or
-
-  insisting on pervasive equality
-
-  prevents trust.
-
-  Being adept and fluid as a leader, a follower and a peer
-
-  instills trust.
-dateModified: '2017-02-18T23:15:41.901Z'
-datePublished: '2017-02-18T23:15:42.455Z'
+description: The tyranny in...
+dateModified: '2017-02-18T23:25:31.662Z'
+datePublished: '2017-02-18T23:25:32.360Z'
 title: ''
 author: []
 publisher: {}
@@ -39,3 +26,17 @@ prevents trust.
 Being adept and fluid as a leader, a follower and a peer
 
 instills trust.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0464aea-595e-40ea-90c9-0d80bbbdf770.jpg)
+
+The tyranny in...
+
+always needing to lead,
+
+always following, or
+
+insisting on pervasive equality
+
+prevents trust.
+
+Being adept and fluid as a leader, a follower and a peer
+
+instills trust.
