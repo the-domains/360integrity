@@ -1,21 +1,21 @@
-typography_spectrum: 0.2973154558667378
+layout_spectrum: 0.9469873356191201
+typography_spectrum: 0.3711993476355651
 color:
-  saturation: 0.7452557723241683
-  brandStrength: 0.5960554113594059
-  lightness: 0.06394871375883127
+  saturation: 0.09246734683411104
+  brandStrength: 0.9838028231886501
+  lightness: 0.06634758644230147
   brandColors:
     - '#2C3E50'
     - '#E74C3C'
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-  rhythmicContrast: 0.9142290546179814
+  rhythmicContrast: 0.9193381918556436
 github: true
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.7620338991071365
 analytics:
   twitter: '@360Integrity'
   google: UA-29546732-1
