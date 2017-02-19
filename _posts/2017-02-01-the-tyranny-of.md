@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'always needing to lead,'
-dateModified: '2017-02-19T01:04:39.217Z'
-datePublished: '2017-02-19T01:04:40.329Z'
+dateModified: '2017-02-19T01:04:59.342Z'
+datePublished: '2017-02-19T01:04:59.865Z'
 title: The tyranny in...
 author: []
 publisher: {}
